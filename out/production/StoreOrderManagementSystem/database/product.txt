@@ -1,0 +1,4 @@
+P1,Razor,8.0,Keyboard
+P2,Corsair,10.0,Keyboard
+P5,Rubik,2.0E7,Rubik 2.0
+P6,E-DRA,15.0,Mouse

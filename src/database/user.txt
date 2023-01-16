@@ -1,0 +1,4 @@
+C1,Tran Thien Tan,tan@gmail.com,31 A Street,09090900295124,no_membership,dragonball69,passw0rd,0
+C2,Nguyen Nam,email,address,0909265150,no_membership,dragonball64,passw0rd,0
+C3,Tran Thien Tan,tan@gmail.com,31 A Street,09090900295124,PLATINUM,dragonball67,passw0rd,5.01E8
+C4,Nguyen Nam,email,address,0909265150,no_membership,maol70,passw0rd,0
